@@ -1,0 +1,94 @@
+body{
+   margin:0;
+    padding: 0;
+    box-sizing: border-box;
+  
+    
+}
+.container{
+ max-width: 1000px;
+    background:aqua;
+    margin: 0px auto;
+    
+}
+.profile-img{
+   height: 80px;
+    width:80px;
+    border-radius: 50%;
+    border: 1px solid #fff;
+  margin: 25px;
+     float: left;  
+  
+    
+}
+.profile{
+   padding:10px;
+    color:#666;
+    display:inline-block;
+}
+
+.contact{
+float:right;
+  padding-right: 10px;  
+    
+}
+
+.contact a{
+    text-decoration: none;
+    color:#666;
+    transition: transform 0.3s;
+    }
+.contact a:hover{
+    color:#ff532b;
+    
+}
+
+hr{
+   height:2px;
+    width:100%;
+    color:#333;
+    margin:0 auto;
+    
+}
+.clear-div{
+    clear: both;
+   
+    
+}
+/*-----------------persoasb*/
+
+#personal-section{
+    
+    
+    
+}
+
+.content{
+   margin: 20px; 
+    text-align: justify
+    
+}
+
+.left-div{
+    width:30%;
+    float: left;
+    
+}
+
+
+.right-div{
+   width:70%; 
+    float: left;
+    
+}
+
+.common-hr{
+    border:1px solid black;
+    border-bottom: none;
+    width:100%;
+    margin:20px  auto;
+    
+}
+
+
+
